@@ -31,4 +31,10 @@ This dashboard aims to:
 - DAX Measures.
 
 
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/08335eb6-1ea2-4e68-86f7-137a8800994b)
+
+![image](https://github.com/user-attachments/assets/5d6c1c0b-5658-4f54-b836-30a5046072c3)
+
 
