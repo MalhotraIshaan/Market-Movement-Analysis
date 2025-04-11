@@ -1,0 +1,5 @@
+pandas
+numpy
+kagglehub
+
+download dataset: https://www.kaggle.com/datasets/nishanthsalian/indian-stock-index-1minute-data-2008-2020
